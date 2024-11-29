@@ -80,7 +80,7 @@
       <updated>1732726151071</updated>
       <workItem from="1732726152195" duration="11085000" />
       <workItem from="1732785246593" duration="3374000" />
-      <workItem from="1732903048157" duration="4478000" />
+      <workItem from="1732903048157" duration="5188000" />
     </task>
     <servers />
   </component>
@@ -91,24 +91,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lesson2/homework/TheSecondBlockPartOne.java</url>
+          <url>file://$PROJECT_DIR$/src/lesson3/homework/TheSecondBlockPartOne.java</url>
           <line>112</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lesson2/homework/TheSecondBlockPartOne.java</url>
+          <url>file://$PROJECT_DIR$/src/lesson3/homework/TheSecondBlockPartOne.java</url>
           <line>29</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lesson2/homework/TheSecondBlockPartTwo.java</url>
+          <url>file://$PROJECT_DIR$/src/lesson3/homework/TheSecondBlockPartTwo.java</url>
           <line>40</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/lesson2/homework/TheSecondBlockPartTwo.java</url>
+          <url>file://$PROJECT_DIR$/src/lesson3/homework/TheSecondBlockPartTwo.java</url>
           <line>78</line>
-          <properties class="lesson2.homework.TheSecondBlockPartTwo" method="fifthTaskWithStarSymbol">
+          <properties class="lesson3.homework.TheSecondBlockPartTwo" method="fifthTaskWithStarSymbol">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
