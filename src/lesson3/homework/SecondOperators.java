@@ -3,7 +3,7 @@ package lesson3.homework;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class TheSecondBlockPartTwo {
+public class SecondOperators {
     public static void main(String[] args) {
 
         //firstTask();

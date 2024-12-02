@@ -2,7 +2,7 @@ package lesson3.homework;
 
 import java.util.Scanner;
 
-public class TheSecondBlockPartOne {
+public class FirstOperators {
     public static void main(String[] args) throws InterruptedException {
 
         /*Information for Archil: the main method throws exceptions because

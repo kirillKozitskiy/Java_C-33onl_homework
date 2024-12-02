@@ -1,9 +1,8 @@
 package lesson4.homework;
 
-import java.util.Arrays;
 import java.util.Random;
 
-public class Homework {
+public class Array {
 
 
     //haven't done yet
