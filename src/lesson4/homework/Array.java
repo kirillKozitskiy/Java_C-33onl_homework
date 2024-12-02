@@ -5,18 +5,19 @@ import java.util.Random;
 public class Array {
 
 
-    //haven't done yet
-
     public static void main(String[] args) {
 
         int[] array = createArray(5);
 
         fillArrayWithRandom(array);
-        //printArray(array);
-
-        printArray2(array);
-
-
+        printArray(array);
+        printArrayInReverse(array);
+        searchForMinElement(array);
+        searchForMaxElement(array);
+        swapPlaces(array);
+        searchForZeroElement(array);
+        sortArray(array);
+        incrementCheck(array);
     }
 
     public static int[] createArray(int size){
@@ -62,7 +63,7 @@ public class Array {
                 index = i;
             }
         }
-        System.out.println("Min element is "+min+"\nIndex of min is "+index);
+        System.out.println("\nMin element is "+min+"\nIndex of min is "+index);
     }
 
     public static void searchForMaxElement(int[] array){
@@ -94,9 +95,9 @@ public class Array {
     }
 
     public static void swapPlaces(int[] array){
-        
+
         int size = array.length;
-        
+
         for(int i = 0; i < size/2; i++){
             int temp = array[i];
             array[i] = array[size-1-i];
@@ -142,20 +143,7 @@ public class Array {
 
     }
 
-    public static void printArray2(int[] array){
 
-        int n = array.length;
-
-        for (int i = 0; i < n; i++) {
-            if(array[n-i]<9){
-                array[n-i]++;
-                break;
-            }
-
-        }
-
-
-    }
 
 
 
