@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="adding">
+    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="update lesson4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson4/homework/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework/Homework.java" afterDir="false" />
     </list>
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kirillKozitskiy"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kirillKozitskiy&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kirillKozitskiy/lesson3HomeWork.git",
-    "accountId": "64bebd2c-8829-405e-91a2-c49b68dd293e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kirillKozitskiy/lesson3HomeWork.git&quot;,
+    &quot;accountId&quot;: &quot;64bebd2c-8829-405e-91a2-c49b68dd293e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -46,7 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Homework.executor": "Debug",
+    "Application.Homework.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TheSecondBlock.executor": "Run",
     "Application.TheSecondBlockPartOne.executor": "Run",
@@ -83,7 +83,8 @@
       <updated>1732726151071</updated>
       <workItem from="1732726152195" duration="11085000" />
       <workItem from="1732785246593" duration="3374000" />
-      <workItem from="1732903048157" duration="8592000" />
+      <workItem from="1732903048157" duration="8907000" />
+      <workItem from="1733147612858" duration="9317000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -93,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732917983218</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update lesson4">
+      <option name="closed" value="true" />
+      <created>1732921016988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732921016988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +110,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding" />
+    <MESSAGE value="adding2" />
+    <MESSAGE value="update lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update lesson4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -123,8 +134,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/lesson4/homework/Homework.java</url>
-          <line>70</line>
+          <line>130</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/homework/Homework.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/homework/Homework.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/lesson3/homework/TheSecondBlockPartTwo.java</url>
