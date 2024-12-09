@@ -45,18 +45,13 @@ public class StarSymbolTask {
                     multiArray[outer][inner] = filler;
                     filler++;
                 }
-
             }
             else {
-                for(int inner = (multiArray[outer].length)-1; inner>=0; inner--) {
+                for(int inner = (multiArray[outer].length) - 1; inner >= 0; inner--) {
                     multiArray[outer][inner] = filler;
                     filler++;
                 }
-
             }
-
         }
-
     }
-
 }
