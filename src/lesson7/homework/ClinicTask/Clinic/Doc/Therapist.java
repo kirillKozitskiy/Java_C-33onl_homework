@@ -15,7 +15,7 @@ public class Therapist extends Doctors {
 
     public void getRequest(int request){
         if(request == 1){
-            Surgeon surgeon = new Surgeon("Archil", "Something");
+            Surgeon surgeon = new Surgeon("Mamba", "Something");
         }
         else if(request == 2){
             Dental dental = new Dental("Dental", "Dental");
