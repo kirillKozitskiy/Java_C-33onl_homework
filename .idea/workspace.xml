@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="update lesson4">
-      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/Clinic/Clinic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/Clinic/doctors/Doctors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/Clinic/doctors/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/ClinicTask/Clinic/Clients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/ClinicTask/Clinic/ClinicFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/ClinicTask/Clinic/Doc/Dental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/ClinicTask/Clinic/Doc/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/ClinicTask/Clinic/Doc/Therapist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/ClinicTask/Clinic/Doctors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/ClinicTask/Clinic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/StarTask/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/homework/StarTask/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictoe/game/homework/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictoe/game/homework/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictoe/game/homework/MyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArchilCode/ArchilCode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +74,9 @@
     "Application.TheSecondBlockPartTwo.executor": "Run",
     "Application.TwoDimensionalArray.executor": "Run",
     "Application.lesson6.homework.ATM.MyMain.executor": "Run",
+    "Application.lesson7.homework.Store.MyMain.executor": "Run",
     "Application.practice.MyMain.executor": "Run",
+    "Application.tictoe.game.homework.MyMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -82,39 +92,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.practice.MyMain">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.homework.ClinicTask.Clinic.Main" />
+      <module name="lesson3HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.homework.ClinicTask.Clinic.Doctors" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.homework.creditCard.MyMain" />
+      <option name="MAIN_CLASS_NAME" value="lesson7.homework.StarTask.MyMain" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson6.homework.creditCard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.homework.SecondTask" />
-      <module name="lesson3HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson5.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StarSymbolTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.homework.StarSymbolTask" />
-      <module name="lesson3HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson5.homework.*" />
+          <option name="PATTERN" value="lesson7.homework.StarTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tictoe.game.homework.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictoe.game.homework.MyMain" />
+      <module name="lesson3HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tictoe.game.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lesson7.homework.Store.MyMain" />
+        <item itemvalue="Application.tictoe.game.homework.MyMain" />
         <item itemvalue="Application.practice.MyMain" />
         <item itemvalue="Application.lesson6.homework.ATM.MyMain" />
-        <item itemvalue="Application.MyMain" />
-        <item itemvalue="Application.StarSymbolTask" />
-        <item itemvalue="Application.SecondTask" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +200,9 @@
       <workItem from="1734251159921" duration="6218000" />
       <workItem from="1734338398616" duration="480000" />
       <workItem from="1734351825394" duration="22260000" />
-      <workItem from="1734440876742" duration="10514000" />
+      <workItem from="1734440876742" duration="12914000" />
+      <workItem from="1734539277256" duration="1146000" />
+      <workItem from="1734606246562" duration="8201000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -280,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734388616442</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update lesson4">
+      <option name="closed" value="true" />
+      <created>1734457437423</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734457437423</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,6 +394,10 @@
           </properties>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoSuchFieldException" package="java.lang" />
+          <option name="timeStamp" value="50" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
