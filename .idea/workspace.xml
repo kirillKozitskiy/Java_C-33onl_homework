@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="update lesson4">
-      <change afterPath="$PROJECT_DIR$/src/lesson8/homework/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/homework/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/homework/Animals/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/homework/Animals/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/homework/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="update lesson4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +192,7 @@
       <workItem from="1734606246562" duration="8508000" />
       <workItem from="1734725884550" duration="1314000" />
       <workItem from="1734800868255" duration="6112000" />
-      <workItem from="1734814724914" duration="1072000" />
+      <workItem from="1734814724914" duration="1767000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
