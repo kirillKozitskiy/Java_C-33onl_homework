@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="saving">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task1/AccountManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task1/AccountManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task1/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task1/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task1/WorkerRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task1/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task1/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task2/Black.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task2/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task2/Figure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/task2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/task2/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/yeses.java" beforeDir="false" />
-    </list>
+    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="saving" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +197,7 @@
       <workItem from="1734800868255" duration="6112000" />
       <workItem from="1734814724914" duration="4720000" />
       <workItem from="1734870157368" duration="674000" />
-      <workItem from="1734870847309" duration="8881000" />
+      <workItem from="1734870847309" duration="9192000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
