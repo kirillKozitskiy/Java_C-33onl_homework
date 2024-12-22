@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;kirillKozitskiy&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:kirillKozitskiy/Java-C33-onl-homework.git",
-    "accountId": "64bebd2c-8829-405e-91a2-c49b68dd293e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:kirillKozitskiy/Java-C33-onl-homework.git&quot;,
+    &quot;accountId&quot;: &quot;64bebd2c-8829-405e-91a2-c49b68dd293e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -194,6 +194,7 @@
       <workItem from="1734800868255" duration="6112000" />
       <workItem from="1734814724914" duration="4720000" />
       <workItem from="1734870157368" duration="674000" />
+      <workItem from="1734870847309" duration="755000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
