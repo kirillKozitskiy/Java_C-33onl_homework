@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="saving">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/Just.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +197,7 @@
       <workItem from="1734800868255" duration="6112000" />
       <workItem from="1734814724914" duration="4720000" />
       <workItem from="1734870157368" duration="674000" />
-      <workItem from="1734870847309" duration="1734000" />
+      <workItem from="1734870847309" duration="2693000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
