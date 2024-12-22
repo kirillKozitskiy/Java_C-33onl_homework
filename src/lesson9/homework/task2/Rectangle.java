@@ -1,15 +1,26 @@
 package lesson9.homework.task2;
 
-import java.awt.*;
+public class Rectangle extends Shape {
 
-public class Rectangle extends Figure {
+    private int length;
+    private int width;
+
+    public Rectangle(int length, int width) {
+        this.length = length;
+        this.width = width;
+
+    }
+
     @Override
-    void findArea() {
-
+    public void findArea() {
+        System.out.println("Area of Rectangle = "+ (length*width));
     }
 
     @Override
-    void findPerimeter() {
+    public float findPerimeter() {
+
+        return length+width*2;
 
     }
+
 }

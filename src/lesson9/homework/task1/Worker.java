@@ -1,14 +1,16 @@
 package lesson9.homework.task1;
 
-public class Worker implements Employee{
+public class Worker implements WorkerRole {
+
+    public Worker() {
+        showEmpPosition();
+    }
+
 
     @Override
     public void showEmpPosition() {
-        System.out.println("Worker Position");
+        System.out.println("I am worker");
     }
 }
 
-//Figure
-//triangle
-//Rectangle
-//Circle
+//Shape

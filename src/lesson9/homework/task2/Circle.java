@@ -2,32 +2,23 @@ package lesson9.homework.task2;
 
 import java.util.Scanner;
 
-public class Circle extends Figure{
+public class Circle extends Shape {
 
-    final float PI = 3.14f;
-    int radius;
+    private final float PI = 3.14f;
 
+    private float radius;
 
-    @Override
-    void findArea() {
-        System.out.println("Enter the radius of the circle: ");
-        this.radius = inputRadius().nextInt();
-        float area = PI*radius*radius;
-        System.out.println("The area of the circle is "+area);
+    public Circle(float radius) {
+        this.radius = radius;
     }
 
     @Override
-    void findPerimeter() {
-        System.out.println("Perimeter of the circle: ");
-        int perimeter = (int) (2*PI*radius);
-
+    public void findArea() {
+        System.out.println("Area: "+PI*radius*radius);
     }
 
-
-
-    public Scanner inputRadius(){
-        return new Scanner(System.in);
+    @Override
+    public float findPerimeter() {
+        return 2*PI*radius;
     }
-
-
 }
