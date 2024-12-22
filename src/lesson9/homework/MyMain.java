@@ -7,13 +7,22 @@ import lesson9.homework.task2.Circle;
 import lesson9.homework.task2.Rectangle;
 import lesson9.homework.task2.Shape;
 import lesson9.homework.task2.Triangle;
-
+import lesson9.homework.task3.Student;
 
 
 public class MyMain {
     public static void main(String[] args) {
 
+        System.out.println("------THE FIRST TASK------");
+        startFirstTask();
+        System.out.println("\n\n");
+
+        System.out.println("------THE SECOND TASK------");
         startSecondTask();
+        System.out.println("\n\n");
+
+        System.out.println("------THE THIRD TASK------");
+        startThirdTask();
 
     }
 
@@ -47,7 +56,12 @@ public class MyMain {
 
     }
     public static void startThirdTask(){
+        Student student1 = new Student("Kirill", 18);
 
+        Student student2 = (Student) student1.clone();
+
+        System.out.println(student1);
+        System.out.println(student2);
     }
 
 

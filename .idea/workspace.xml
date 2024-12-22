@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="saving" />
+    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="saving">
+      <change afterPath="$PROJECT_DIR$/src/lesson9/homework/task3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictoe/game/homework/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson9/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/homework/MyMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +70,7 @@
     "Application.lesson7.homework.Store.MyMain.executor": "Run",
     "Application.lesson8.homework.MyMain.executor": "Run",
     "Application.lesson9.homework.task2.MyMain.executor": "Run",
+    "Application.lesson9.homework.task3.Main.executor": "Run",
     "Application.practice.MyMain.executor": "Run",
     "Application.tictoe.game.homework.MyMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -135,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tictoe.game.homework.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tictoe.game.homework.MyMain" />
+    <configuration name="lesson9.homework.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson9.homework.task3.Main" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tictoe.game.homework.*" />
+          <option name="PATTERN" value="lesson9.homework.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,10 +157,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyMain" />
+        <item itemvalue="Application.lesson9.homework.task3.Main" />
         <item itemvalue="Application.lesson9.homework.task2.MyMain" />
         <item itemvalue="Application.lesson8.homework.MyMain" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.tictoe.game.homework.MyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +203,7 @@
       <workItem from="1734800868255" duration="6112000" />
       <workItem from="1734814724914" duration="4720000" />
       <workItem from="1734870157368" duration="674000" />
-      <workItem from="1734870847309" duration="9192000" />
+      <workItem from="1734870847309" duration="10939000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
