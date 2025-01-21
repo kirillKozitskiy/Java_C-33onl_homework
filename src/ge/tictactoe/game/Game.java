@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Game {
 
     public static char currentPlayer;
-
+//d
     public Game(){
         startTheGame();
     }
