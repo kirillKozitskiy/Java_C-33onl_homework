@@ -6,8 +6,6 @@ import static ge.tictactoe.game.Game.currentPlayer;
 
 public class Board {
 
-    static Player player;
-
     public static char[][] board = new char[3][3];
 
     public static void initializeGameBoard(){

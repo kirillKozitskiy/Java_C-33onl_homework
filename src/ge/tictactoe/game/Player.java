@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 public class Player {
 
-    public static Board board;
-
     public String name;
     public static char moveSymbol;
 

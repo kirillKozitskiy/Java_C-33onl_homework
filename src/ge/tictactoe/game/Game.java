@@ -3,8 +3,7 @@ package ge.tictactoe.game;
 import java.util.Scanner;
 
 public class Game {
-    static Player player;
-    static Board board;
+
     public static char currentPlayer;
 
     public Game(){
