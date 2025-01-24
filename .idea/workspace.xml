@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
-      <change afterPath="$PROJECT_DIR$/src/lesson12/homework/MyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson12/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson12/homework/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +225,7 @@
       <workItem from="1737679149859" duration="84000" />
       <workItem from="1737679243860" duration="166000" />
       <workItem from="1737720331746" duration="2808000" />
-      <workItem from="1737756964630" duration="2666000" />
+      <workItem from="1737756964630" duration="3672000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -486,7 +486,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/lesson12/homework/MyMain.java</url>
-          <line>10</line>
+          <line>12</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
