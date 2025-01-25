@@ -1,13 +1,12 @@
 package lesson12.homework;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class MyMain {
+public class FirstTaskWithAbbreviation {
     public static void main(String[] args) {
 
         System.out.println("\u001B[34mPlease, enter the line to determine if it's an abbreviation.\u001B[0m");

@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
+      <change afterPath="$PROJECT_DIR$/src/lesson12/homework/secondTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson12/homework/secondTask/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson12/homework/secondTask/UserInputPatterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson12/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson12/homework/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson12/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson12/homework/FirstTaskWithAbbreviation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,56 +53,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DuringLesson.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Game.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyStringBuffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarSymbolTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheSecondBlock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheSecondBlockPartOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheSecondBlockPartTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson10.homework.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson11.homework.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson6.homework.ATM.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson7.homework.Store.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson8.homework.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson9.homework.task2.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson9.homework.task3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tictoe.game.homework.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Windows 10/Desktop/Key_Promoter_X-2024.2.2.zip&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA_PROJECTS/lesson3HomeWork/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.DuringLesson.executor": "Run",
+    "Application.FirstTask.executor": "Run",
+    "Application.FirstTaskWithAbbreviation.executor": "Run",
+    "Application.Game.executor": "Run",
+    "Application.Homework.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyMain.executor": "Run",
+    "Application.MyStringBuffer.executor": "Run",
+    "Application.SecondTask.executor": "Run",
+    "Application.StarSymbolTask.executor": "Run",
+    "Application.Test (1).executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TheSecondBlock.executor": "Run",
+    "Application.TheSecondBlockPartOne.executor": "Run",
+    "Application.TheSecondBlockPartTwo.executor": "Run",
+    "Application.TwoDimensionalArray.executor": "Run",
+    "Application.lesson10.homework.Test.executor": "Run",
+    "Application.lesson11.homework.Test.executor": "Run",
+    "Application.lesson6.homework.ATM.MyMain.executor": "Run",
+    "Application.lesson7.homework.Store.MyMain.executor": "Run",
+    "Application.lesson8.homework.MyMain.executor": "Run",
+    "Application.lesson9.homework.task2.MyMain.executor": "Run",
+    "Application.lesson9.homework.task3.Main.executor": "Run",
+    "Application.practice.MyMain.executor": "Run",
+    "Application.tictoe.game.homework.MyMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Windows 10/Desktop/Key_Promoter_X-2024.2.2.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/JAVA_PROJECTS/lesson3HomeWork/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.MyMain">
-    <configuration name="DuringLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson11.homework.DuringLesson" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FirstTaskWithAbbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12.homework.FirstTaskWithAbbreviation" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson11.homework.*" />
+          <option name="PATTERN" value="lesson12.homework.secondTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.homework.MyMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12.homework.secondTask.Main" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson12.homework.*" />
+          <option name="PATTERN" value="lesson12.homework.secondTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +138,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ge.tictactoe.game.Test" />
+      <option name="MAIN_CLASS_NAME" value="lesson12.homework.Test" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ge.tictactoe.game.*" />
+          <option name="PATTERN" value="lesson12.homework.secondTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FirstTaskWithAbbreviation" />
         <item itemvalue="Application.lesson11.homework.Test" />
         <item itemvalue="Application.MyStringBuffer" />
-        <item itemvalue="Application.DuringLesson" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +229,8 @@
       <workItem from="1737679149859" duration="84000" />
       <workItem from="1737679243860" duration="166000" />
       <workItem from="1737720331746" duration="2808000" />
-      <workItem from="1737756964630" duration="3672000" />
+      <workItem from="1737756964630" duration="3868000" />
+      <workItem from="1737814548745" duration="4113000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -485,9 +490,14 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lesson12/homework/MyMain.java</url>
+          <url>file://$PROJECT_DIR$/src/lesson12/homework/FirstTaskWithAbbreviation.java</url>
           <line>12</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson12/homework/secondTask/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/lesson3/homework/SecondOperators.java</url>
