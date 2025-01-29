@@ -5,8 +5,6 @@ import java.util.regex.Pattern;
 
 public class UserRegExPatterns {
 
-    User user;
-
     public static boolean isPhoneNumberAcceptable(String phoneNumber) {
         Pattern phoneNumberPattern = Pattern.compile("^(\\d{4})-\\d{4}-\\d{2}|\\+\\(\\d{2}\\)\\d{7}");
         Matcher matcher = phoneNumberPattern.matcher(phoneNumber);
