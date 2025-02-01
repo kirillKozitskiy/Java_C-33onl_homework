@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
-      <change afterPath="$PROJECT_DIR$/ListOfExceptions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/ListOfExceptions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/UserInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/UserInputValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/exceptions/ConfirmPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/exceptions/LoginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/exceptions/PasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson13/exceptionHomework/starTask/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/realizations/FirstTaskRealization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/realizations/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/realizations/SecondTaskRealization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/realizations/StarTaskRealization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/realizations/ThirdTaskRealization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson12/homework/secondTask/UserRegExPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson12/homework/secondTask/UserRegExPatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson14/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson14/homework/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson14/homework/file.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +47,9 @@
     &quot;accountId&quot;: &quot;64bebd2c-8829-405e-91a2-c49b68dd293e&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/regex/Matcher.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -70,6 +73,7 @@
     &quot;Application.Game.executor&quot;: &quot;Run&quot;,
     &quot;Application.Homework.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIOMore.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyStringBuffer.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondTask.executor&quot;: &quot;Run&quot;,
@@ -83,6 +87,7 @@
     &quot;Application.lesson10.homework.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson11.homework.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson13.exceptionHomework.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson15.homework.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson6.homework.ATM.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson7.homework.Store.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson8.homework.MyMain.executor&quot;: &quot;Run&quot;,
@@ -106,9 +111,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lesson13.exceptionHomework.Main">
-    <configuration name="FirstTaskWithAbbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.homework.FirstTaskWithAbbreviation" />
+  <component name="RunManager" selected="Application.lesson15.homework.MyMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12.homework.secondTask.Main" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.homework.secondTask.Main" />
+    <configuration name="MyIOMore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.homework.duringlesson.MyIOMore" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson12.homework.secondTask.*" />
+          <option name="PATTERN" value="lesson15.homework.duringlesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.homework.Test" />
-      <module name="lesson3HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson12.homework.secondTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lesson13.exceptionHomework.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson13.exceptionHomework.Main" />
       <module name="lesson3HomeWork" />
@@ -172,13 +164,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson15.homework.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.homework.MyMain" />
+      <module name="lesson3HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson15.homework.realizations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson15.homework.MyMain" />
         <item itemvalue="Application.lesson13.exceptionHomework.Main" />
         <item itemvalue="Application.MyMain" />
+        <item itemvalue="Application.MyIOMore" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FirstTaskWithAbbreviation" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +255,17 @@
       <workItem from="1737993717383" duration="6330000" />
       <workItem from="1738070006611" duration="11687000" />
       <workItem from="1738163026438" duration="5063000" />
-      <workItem from="1738182858783" duration="2432000" />
+      <workItem from="1738182858783" duration="4128000" />
+      <workItem from="1738252965660" duration="6413000" />
+      <workItem from="1738318625816" duration="1008000" />
+      <workItem from="1738327641172" duration="3784000" />
+      <workItem from="1738332277214" duration="2293000" />
+      <workItem from="1738411169823" duration="601000" />
+      <workItem from="1738424211839" duration="2761000" />
+      <workItem from="1738428318513" duration="1780000" />
+      <workItem from="1738432120984" duration="626000" />
+      <workItem from="1738433112363" duration="341000" />
+      <workItem from="1738434032184" duration="6299000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -518,6 +533,16 @@
           <url>file://$PROJECT_DIR$/src/lesson12/homework/secondTask/Main.java</url>
           <line>27</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson15/homework/realizations/ThirdTaskRealization.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson15/homework/MyMain.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/lesson3/homework/SecondOperators.java</url>

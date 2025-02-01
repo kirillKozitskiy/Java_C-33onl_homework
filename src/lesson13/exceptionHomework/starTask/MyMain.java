@@ -1,19 +1,15 @@
-package lesson14.homework;
-
-import java.io.File;
-import java.io.FileReader;
+package lesson13.exceptionHomework.starTask;
 
 public class MyMain {
 
     public static void main(String[] args) {
 
+        
 
 
 
 
     }
-
-
 
 
 }
