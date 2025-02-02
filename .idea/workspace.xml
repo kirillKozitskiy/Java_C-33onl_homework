@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/serialization/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/serialization/computer/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/serialization/computer/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/serialization/computer/computerSaveForSerialization.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/serialization/computer/parts/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/serialization/computer/parts/RAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/serialization/computer/parts/SSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/firstTak/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/firstTak/romeoAndJulieteText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/firstTak/theLongestWorldFromPhrase" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson14/homework/MyMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +80,7 @@
     &quot;Application.lesson11.homework.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson13.exceptionHomework.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson14.homework.MyMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson14.homework.firstTak.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson14.homework.serialization.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson15.homework.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson6.homework.ATM.MyMain.executor&quot;: &quot;Run&quot;,
@@ -115,20 +111,7 @@
       <recent name="C:\Users\Windows 10\IdeaProjects\Java_C-33onl_homework\src\lesson14\homework\serialization\computer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson14.homework.serialization.computer.MyMain">
-    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson13.exceptionHomework.MyMain" />
-      <module name="lesson3HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson13.exceptionHomework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.lesson14.homework.firstTak.MyMain">
     <configuration name="lesson13.exceptionHomework.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson13.exceptionHomework.Main" />
       <module name="lesson3HomeWork" />
@@ -148,6 +131,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson14.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson14.homework.firstTak.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14.homework.firstTak.MyMain" />
+      <module name="lesson3HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson14.homework.firstTak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson14.homework.firstTak.MyMain" />
         <item itemvalue="Application.lesson14.homework.serialization.computer.MyMain" />
         <item itemvalue="Application.lesson14.homework.MyMain" />
         <item itemvalue="Application.lesson15.homework.MyMain" />
         <item itemvalue="Application.lesson13.exceptionHomework.Main" />
-        <item itemvalue="Application.MyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +268,9 @@
       <workItem from="1738434032184" duration="6299000" />
       <workItem from="1738441846711" duration="5328000" />
       <workItem from="1738509440062" duration="4721000" />
-      <workItem from="1738514545490" duration="2559000" />
+      <workItem from="1738514545490" duration="3783000" />
+      <workItem from="1738532410851" duration="2982000" />
+      <workItem from="1738539037257" duration="451000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
