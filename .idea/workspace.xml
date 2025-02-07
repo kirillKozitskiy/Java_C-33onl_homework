@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
-      <change afterPath="$PROJECT_DIR$/src/lesson16/homework/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson16/homework/Realization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson16/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson16/homework/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson16/homework/Realization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson16/homework/Realization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +275,7 @@
       <workItem from="1738599915338" duration="627000" />
       <workItem from="1738880306009" duration="1994000" />
       <workItem from="1738930077738" duration="8572000" />
-      <workItem from="1738943132030" duration="3863000" />
+      <workItem from="1738943132030" duration="5593000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />

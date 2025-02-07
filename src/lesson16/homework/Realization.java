@@ -14,6 +14,28 @@ public class Realization {
         System.out.println(getStringFrequencyMap(strings));
 
     }
+
+    public void secondTask(){
+        String[] words = {"peek", "house","somewhere"};
+        System.out.println(getKeyAndValueMap(words));
+
+    }
+
+    public static Map<String, String> getKeyAndValueMap(String[] strings){
+        Map<String, String> map = new HashMap<>();
+        for (String word : strings) {
+            if(word.length()>1){
+                map.put(word.substring(0,1), word.substring(word.length()-1));
+            }
+            else{
+                map.put(word, word);
+            }
+        }
+        return map;
+    }
+
+
+
     public static Map<String, Boolean> getStringFrequencyMap(String[] strings){
         Map<String, Integer> frequencyMap = new HashMap<>();
         Map<String, Boolean> resultMap = new HashMap<>();
