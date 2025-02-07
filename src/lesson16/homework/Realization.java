@@ -8,7 +8,6 @@ import java.util.*;
 public class Realization {
 
     public void firstTask(){
-
         String[] strings = {"k","k","c","d","f","g","c"};
         System.out.println(getStringFrequencyMap(strings));
 
@@ -23,8 +22,9 @@ public class Realization {
     public void thirdTask(){
         String brackets = "{[()}";
         System.out.println(isBalanced(brackets));
-
     }
+
+    //mirror bracket check
     public static boolean isBalanced(String s) {
         Stack<Character> stack = new Stack<>();
 
@@ -43,9 +43,9 @@ public class Realization {
             }
         }
         return stack.isEmpty();
-
     }
 
+    //Is left bracket matching the right
     private static boolean isMatchingPair(char left, char right) {
         if ((left == '{' && right == '}')
                 || (left == '[' && right == ']')
@@ -55,6 +55,7 @@ public class Realization {
         return false;
     }
 
+    //Get first symbol of the world as a KEY and the last as a VALUE
     public static Map<String, String> getKeyAndValueMap(String[] strings){
         Map<String, String> map = new HashMap<>();
         for (String word : strings) {
@@ -68,8 +69,7 @@ public class Realization {
         return map;
     }
 
-
-
+    //Return only string where word come across more than 2 times or equal two
     public static Map<String, Boolean> getStringFrequencyMap(String[] strings){
         Map<String, Integer> frequencyMap = new HashMap<>();
         Map<String, Boolean> resultMap = new HashMap<>();
