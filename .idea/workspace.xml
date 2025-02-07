@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/firstTak/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/firstTak/romeoAndJulieteText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/homework/firstTak/theLongestWorldFromPhrase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson17/homework/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson17/homework/MyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson14/homework/firstTak/theLongestWorldFromPhrase" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson14/homework/firstTak/theLongestWorldFromPhrase" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,13 +111,13 @@
       <recent name="C:\Users\Windows 10\IdeaProjects\Java_C-33onl_homework\src\lesson14\homework\serialization\computer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson14.homework.firstTak.MyMain">
-    <configuration name="lesson13.exceptionHomework.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson13.exceptionHomework.Main" />
+  <component name="RunManager" selected="Application.MyMain">
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson17.homework.MyMain" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson13.exceptionHomework.*" />
+          <option name="PATTERN" value="lesson17.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.lesson14.homework.firstTak.MyMain" />
         <item itemvalue="Application.lesson14.homework.serialization.computer.MyMain" />
         <item itemvalue="Application.lesson14.homework.MyMain" />
         <item itemvalue="Application.lesson15.homework.MyMain" />
-        <item itemvalue="Application.lesson13.exceptionHomework.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +270,11 @@
       <workItem from="1738509440062" duration="4721000" />
       <workItem from="1738514545490" duration="3783000" />
       <workItem from="1738532410851" duration="2982000" />
-      <workItem from="1738539037257" duration="451000" />
+      <workItem from="1738539037257" duration="787000" />
+      <workItem from="1738584218696" duration="653000" />
+      <workItem from="1738599915338" duration="627000" />
+      <workItem from="1738880306009" duration="1994000" />
+      <workItem from="1738930077738" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
