@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson17/homework/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17/homework/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson17/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17/homework/MyMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -273,7 +269,7 @@
       <workItem from="1738584218696" duration="653000" />
       <workItem from="1738599915338" duration="627000" />
       <workItem from="1738880306009" duration="1994000" />
-      <workItem from="1738930077738" duration="4270000" />
+      <workItem from="1738930077738" duration="4602000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -551,6 +547,11 @@
           <url>file://$PROJECT_DIR$/src/lesson15/homework/MyMain.java</url>
           <line>13</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson17/homework/Homework.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/lesson3/homework/SecondOperators.java</url>

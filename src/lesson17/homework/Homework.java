@@ -74,7 +74,7 @@ public class Homework {
         }
         else
             System.out.println("Invalid sum of money you want to convert");
-
+//g
     }
 
     private Scanner getScanner(){
