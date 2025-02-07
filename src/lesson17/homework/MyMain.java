@@ -12,6 +12,7 @@ public class MyMain {
 
     public static void main(String[] args) {
         Homework homework = new Homework();
-        homework.firstTask();
+        //homework.firstTask();
+        homework.secondTask();
     }
 }

@@ -3,8 +3,13 @@ package lesson17.homework;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
+import java.util.Arrays;
 import java.util.Date;
+import java.util.List;
 import java.util.Scanner;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class Homework {
 
@@ -31,6 +36,24 @@ public class Homework {
             System.out.println("Invalid birthday date");
         }
     }
+
+    public void secondTask(){
+        int[] arrayOfNumbers = {10,-3,24,-4,32,2,-3,-54};
+
+        List<Integer> numbers = IntStream
+                .of(arrayOfNumbers)
+                .boxed()
+                .toList();
+
+        //It's a functional interface, so we can use lambda expression
+        Predicate<Integer> positive = num -> num > 0;
+
+        List<Integer> filteredNumbers = numbers.stream()
+                .filter(positive)
+                .toList();
+        filteredNumbers.forEach(n -> System.out.print(n+" "));
+    }
+
 
     private Scanner getScanner(){
         return new Scanner(System.in);
