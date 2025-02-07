@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48cc374b-e7a2-4e37-bfe8-7d7531b48934" name="Changes" comment="&quot;homework 11 was added&quot;">
+      <change afterPath="$PROJECT_DIR$/src/lesson16/homework/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson16/homework/Realization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson17/homework/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17/homework/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson17/homework/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17/homework/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,7 @@
     "Application.lesson14.homework.firstTak.MyMain.executor": "Run",
     "Application.lesson14.homework.serialization.MyMain.executor": "Run",
     "Application.lesson15.homework.MyMain.executor": "Run",
+    "Application.lesson16.homework.MyMain.executor": "Run",
     "Application.lesson6.homework.ATM.MyMain.executor": "Run",
     "Application.lesson7.homework.Store.MyMain.executor": "Run",
     "Application.lesson8.homework.MyMain.executor": "Run",
@@ -110,7 +111,7 @@
       <recent name="C:\Users\Windows 10\IdeaProjects\Java_C-33onl_homework\src\lesson14\homework\serialization\computer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyMain">
+  <component name="RunManager" selected="Application.lesson16.homework.MyMain">
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson17.homework.MyMain" />
       <module name="lesson3HomeWork" />
@@ -163,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson15.homework.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson15.homework.MyMain" />
+    <configuration name="lesson16.homework.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson16.homework.MyMain" />
       <module name="lesson3HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson15.homework.myArray.*" />
+          <option name="PATTERN" value="lesson16.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson16.homework.MyMain" />
         <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.lesson14.homework.firstTak.MyMain" />
         <item itemvalue="Application.lesson14.homework.serialization.computer.MyMain" />
         <item itemvalue="Application.lesson14.homework.MyMain" />
-        <item itemvalue="Application.lesson15.homework.MyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +274,8 @@
       <workItem from="1738584218696" duration="653000" />
       <workItem from="1738599915338" duration="627000" />
       <workItem from="1738880306009" duration="1994000" />
-      <workItem from="1738930077738" duration="7490000" />
+      <workItem from="1738930077738" duration="8572000" />
+      <workItem from="1738943132030" duration="3863000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -561,6 +563,11 @@
           <url>file://$PROJECT_DIR$/src/lesson17/homework/Homework.java</url>
           <line>83</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson16/homework/MyMain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/lesson3/homework/SecondOperators.java</url>
