@@ -14,7 +14,8 @@ public class MyMain {
         Homework homework = new Homework();
         //homework.firstTask();
         //homework.secondTask();
-        homework.thirdTask();
+        //homework.thirdTask();
+        homework.fourthTask();
 
 
 

@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.*;
+import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.regex.Matcher;
@@ -58,9 +59,11 @@ public class Homework {
     public void thirdTask(){
 
         Pattern pattern = Pattern.compile("^(?i)\\d+ BYN$");
+
         System.out.println("Enter the sum of money you want to convert\n" +
                 "EXAMPLE: 56 BYN");
         String money = getScanner().nextLine();
+
         Matcher matcher = pattern.matcher(money);
 
         if (matcher.matches()){
@@ -75,6 +78,33 @@ public class Homework {
         else
             System.out.println("Invalid sum of money you want to convert");
 //g
+    }
+
+    public void fourthTask(){
+        Pattern pattern = Pattern.compile("^(?i)\\d+ BYN$");
+
+        System.out.println("Enter the sum of money you want to convert\n" +
+                "EXAMPLE: 56 BYN");
+        String money = getScanner().nextLine();
+        Matcher matcher = pattern.matcher(money);
+
+
+        if (matcher.matches()){
+            Consumer<String> consumer = new Consumer<String>() {
+                @Override
+                public void accept(String money) {
+                    double amount = Double.parseDouble(money.split(" ")[0]);
+                    System.out.println("Converted USD: "+amount*exchangeRate);
+                }
+            };
+            consumer.accept(money);
+        }
+        else {
+            System.out.println("Invalid sum of money you want to convert");
+        }
+
+
+
     }
 
     private Scanner getScanner(){
