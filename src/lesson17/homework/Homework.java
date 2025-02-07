@@ -7,6 +7,7 @@ import java.util.*;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
+import java.util.function.Supplier;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -77,7 +78,6 @@ public class Homework {
         }
         else
             System.out.println("Invalid sum of money you want to convert");
-//g
     }
 
     public void fourthTask(){
@@ -105,6 +105,21 @@ public class Homework {
 
 
 
+    }
+
+    public void fifthTask(){
+        System.out.println("Enter a line and it will be backward");
+
+        String input = getScanner().nextLine();
+        Supplier<String> supplier = () -> input;
+
+        if(input!=null && !input.isEmpty()){
+            StringBuilder line = new StringBuilder(supplier.get());
+            System.out.println(line.reverse());
+        }
+        else {
+            System.out.println("Invalid input");
+        }
     }
 
     private Scanner getScanner(){
