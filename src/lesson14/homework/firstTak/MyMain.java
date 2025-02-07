@@ -22,7 +22,7 @@ public class MyMain {
 
         writeToFile(pathToWrite, longestWord, true);
     }
-
+//
     public static String getTheLongestWordFromTheTextFile(String filePath) {
         List<String> box = new ArrayList<>();
         String longestWord = "";
