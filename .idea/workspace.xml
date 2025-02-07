@@ -82,7 +82,7 @@
     "Application.lesson14.homework.firstTak.MyMain.executor": "Run",
     "Application.lesson14.homework.serialization.MyMain.executor": "Run",
     "Application.lesson15.homework.MyMain.executor": "Run",
-    "Application.lesson16.homework.MyMain.executor": "Run",
+    "Application.lesson16.homework.MyMain.executor": "Debug",
     "Application.lesson6.homework.ATM.MyMain.executor": "Run",
     "Application.lesson7.homework.Store.MyMain.executor": "Run",
     "Application.lesson8.homework.MyMain.executor": "Run",
@@ -275,7 +275,8 @@
       <workItem from="1738599915338" duration="627000" />
       <workItem from="1738880306009" duration="1994000" />
       <workItem from="1738930077738" duration="8572000" />
-      <workItem from="1738943132030" duration="5593000" />
+      <workItem from="1738943132030" duration="6029000" />
+      <workItem from="1738965767259" duration="2735000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <option name="closed" value="true" />
@@ -566,8 +567,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/lesson16/homework/MyMain.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="65" />
+          <line>14</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/lesson3/homework/SecondOperators.java</url>

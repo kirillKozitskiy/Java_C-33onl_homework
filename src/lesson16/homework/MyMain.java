@@ -11,8 +11,8 @@ public class MyMain {
         Realization realization = new Realization();
 
        // realization.firstTask();
-        realization.secondTask();
-
+        // realization.secondTask();
+        realization.thirdTask();
 
 
 

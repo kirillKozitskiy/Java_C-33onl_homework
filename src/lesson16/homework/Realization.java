@@ -2,9 +2,8 @@ package lesson16.homework;
 
 import lesson4.homework.Array;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import javax.xml.stream.events.Characters;
+import java.util.*;
 
 public class Realization {
 
@@ -19,6 +18,41 @@ public class Realization {
         String[] words = {"peek", "house","somewhere"};
         System.out.println(getKeyAndValueMap(words));
 
+    }
+    //Подглядел реализацию
+    public void thirdTask(){
+        String brackets = "{[()}";
+        System.out.println(isBalanced(brackets));
+
+    }
+    public static boolean isBalanced(String s) {
+        Stack<Character> stack = new Stack<>();
+
+        for (char c : s.toCharArray()) {
+            if ((c == '{')||(c == '[')||(c == '(')){
+                stack.push(c);
+            }
+            else if ((c == '}')||(c == ']')||(c == ')')){
+                if (stack.isEmpty()){
+                    return false;
+                }
+                char last = stack.pop();
+                if (!isMatchingPair(last, c)){
+                    return false;
+                }
+            }
+        }
+        return stack.isEmpty();
+
+    }
+
+    private static boolean isMatchingPair(char left, char right) {
+        if ((left == '{' && right == '}')
+                || (left == '[' && right == ']')
+                || (left == '(' && right == ')')) {
+            return true;
+        }
+        return false;
     }
 
     public static Map<String, String> getKeyAndValueMap(String[] strings){
