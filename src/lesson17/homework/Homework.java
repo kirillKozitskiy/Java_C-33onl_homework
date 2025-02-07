@@ -3,17 +3,18 @@ package lesson17.homework;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
-import java.util.Arrays;
-import java.util.Date;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+import java.util.function.Function;
 import java.util.function.Predicate;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class Homework {
 
     private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("dd.MM.yyyy");
+    private static final double exchangeRate = 3.37;
 
     public void firstTask(){
         System.out.println("Enter the birthday date");
@@ -54,6 +55,27 @@ public class Homework {
         filteredNumbers.forEach(n -> System.out.print(n+" "));
     }
 
+    public void thirdTask(){
+
+        Pattern pattern = Pattern.compile("^(?i)\\d+ BYN$");
+        System.out.println("Enter the sum of money you want to convert\n" +
+                "EXAMPLE: 56 BYN");
+        String money = getScanner().nextLine();
+        Matcher matcher = pattern.matcher(money);
+
+        if (matcher.matches()){
+            Function<String, Double> convertToUSD = amountStr ->{
+                String amountWithoutBYN = amountStr.split(" ")[0];
+                double amount = Double.parseDouble(amountWithoutBYN);
+                return amount * exchangeRate;
+            };
+            double convertedUSD = convertToUSD.apply(money);
+            System.out.println("Converted USD: "+convertedUSD);
+        }
+        else
+            System.out.println("Invalid sum of money you want to convert");
+
+    }
 
     private Scanner getScanner(){
         return new Scanner(System.in);
